@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "NOVA VENTURES",
   description: "Nova Ventures is a modern investment and wealth management platform helping users invest smarter through market insights, financial guidance, portfolio tracking, and seamless digital investing.  
-",
+"
 };
 
 export default function RootLayout({
